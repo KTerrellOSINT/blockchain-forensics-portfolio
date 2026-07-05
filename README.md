@@ -43,5 +43,5 @@ This repository contains self-directed blockchain forensics work produced during
 
 ## Contact
 Kathryn Terrell
-[Your email]
-[Your LinkedIn if you have one]
+
+
